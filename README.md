@@ -10,13 +10,23 @@ Currently, the project contains all the necessary exam data from [domicch/life-i
 - `questions.csv`: Raw question data, including exam and question numbers, the question text, and references/explanations.
 - `answers.csv`: Raw answer data, including multiple-choice options and flags for correct answers.
 - `generate_markdown.py`: The Python script used to download the latest data and rebuild `exams.md`.
+- `tests/`: A directory containing unit tests for the data processing logic.
 
 ## Getting Started
 
-To update the exam data and regenerate the study guide, ensure you have `uv` installed and run:
+### Prerequisites
+- [uv](https://docs.astral.sh/uv/) installed on your machine.
 
+### Update Data & Generate Study Guide
+To download the latest exam data and regenerate the `exams.md` file, run:
 ```bash
-uv run --with requests python generate_markdown.py
+uv run generate_markdown.py
+```
+
+### Run Tests
+To verify the data processing and formatting logic, run:
+```bash
+uv run pytest
 ```
 
 ## Next Steps
