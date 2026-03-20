@@ -1,0 +1,1621 @@
+examNumber,questionNumber,answerNumber,answer,isCorrect
+1,1,1,To look after the area in which you live and the environment,yes
+1,1,2,To look after yourself and your family,yes
+1,1,3,To stay in the UK forever,
+1,1,4,To promote work in your local community,
+1,2,1,Buckingham Palace,
+1,2,2,The Tower of London,
+1,2,3,Trafalgar Square,
+1,2,4,The Houses of the Parliament,yes
+1,3,1,1918,
+1,3,2,1903,
+1,3,3,1928,yes
+1,3,4,1923,
+1,4,1,South west of Europe,
+1,4,2,North east of Europe,
+1,4,3,North west of Europe,yes
+1,4,4,South east of Europe,
+1,5,1,St David,
+1,5,2,St Patrick,
+1,5,3,St George,
+1,5,4,St Andrew,yes
+1,6,1,The House of Chester,
+1,6,2,The House of York,yes
+1,6,3,The House of Lancaster,yes
+1,6,4,The House of Newcastle,
+1,7,1,True,
+1,7,2,False,yes
+1,8,1,A flower,
+1,8,2,A Christian church,
+1,8,3,A war memorial,yes
+1,8,4,A theatre,
+1,9,1,Mary Stuart,
+1,9,2,Theresa May,
+1,9,3,Margaret Thatcher,yes
+1,9,4,Florence Nightingale,
+1,10,1,A bishop,
+1,10,2,The Prime Minister,
+1,10,3,The Speaker,yes
+1,10,4,The archbishop of Canterbury,
+1,11,1,Sir Roger Bannister,
+1,11,2,Sir Jackie Stewart,
+1,11,3,Sir Ian Botham,
+1,11,4,Bobby Moore,yes
+1,12,1,1466,
+1,12,2,1066,
+1,12,3,1254,
+1,12,4,1588,yes
+1,13,1,True,yes
+1,13,2,False,
+1,14,1,16,
+1,14,2,18,yes
+1,14,3,21,
+1,14,4,25,
+1,15,1,From the NHS registration system,
+1,15,2,Randomly from the electoral register,yes
+1,15,3,Alphabetically from the telephone directory,
+1,15,4,From a postcode selection,
+1,16,1,A public holiday when banks are open all day,
+1,16,2,A public holiday for people working in banks,
+1,16,3,An additional day off that every worker in the UK is entitled to,
+1,16,4,A public holiday when banks and many other businesses are closed for the day,yes
+1,17,1,A poll tax relief,
+1,17,2,A number to queue at the polling station,
+1,17,3,A poll card,yes
+1,17,4,An specific time for you to vote,
+1,18,1,Solicitors' charges are usually based on how much time they spend on a case,yes
+1,18,2,Solicitors' charges are usually based on the nature of a case and its importance,
+1,19,1,Television,yes
+1,19,2,Internet,
+1,19,3,Newspapers,
+1,19,4,Radio,yes
+1,20,1,Northern Ireland,
+1,20,2,Wales,
+1,20,3,The Channel Islands,yes
+1,20,4,Scotland,
+1,21,1,Radar,
+1,21,2,Hovercraft,
+1,21,3,Jet engine,yes
+1,21,4,Ballpoint pen,
+1,22,1,William Blake,
+1,22,2,Robert Browning,
+1,22,3,Lord Byron,
+1,22,4,William Wordsworth,yes
+1,23,1,Charles I,
+1,23,2,Charles II,
+1,23,3,Winston Churchill,
+1,23,4,Oliver Cromwell,yes
+1,24,1,Diwali,
+1,24,2,Lent,yes
+1,24,3,Hannukah,
+1,24,4,Vaisakhi,
+10,1,1,St George,yes
+10,1,2,St Patrick,
+10,1,3,St David,
+10,1,4,St Andrew,
+10,2,1,England,
+10,2,2,Wales,
+10,2,3,Scotland,yes
+10,2,4,Northern Ireland,
+10,3,1,True,
+10,3,2,False,yes
+10,4,1,The Cambridge Tales,
+10,4,2,The Eastbourne Tales,
+10,4,3,The Canterbury Tales,yes
+10,4,4,The London Tales,
+10,5,1,31st October,
+10,5,2,26th December,yes
+10,5,3,24th December,
+10,5,4,01st January,
+10,6,1,Credit Holidays,
+10,6,2,Branch Holidays,
+10,6,3,Bank Holidays,yes
+10,6,4,Business Holidays,
+10,7,1,In recognition of the contribution women made to the war effort during the First World War,yes
+10,7,2,In recognition of the contribution women made to the war effort during the Second World War,
+10,7,3,In recognition of the contribution women made to the war effort during the Crimean War,
+10,7,4,In recognition of the contribution women made to the war effort during the Civil War,
+10,8,1,An ‘L’ plate,
+10,8,2,A National Insurance Number,
+10,8,3,A valid driving licence,yes
+10,8,4,An ‘R’ plate,
+10,9,1,Fraserburgh,
+10,9,2,Edinburgh,yes
+10,9,3,Inverness,
+10,9,4,St Andrews,
+10,10,1,150,
+10,10,2,120,
+10,10,3,90,
+10,10,4,60,yes
+10,11,1,True,
+10,11,2,False,yes
+10,12,1,He was a musician,yes
+10,12,2,He was a tennis player,
+10,12,3,He was a comedian,
+10,12,4,He was an actor,
+10,13,1,£50,
+10,13,2,£25,yes
+10,13,3,£20,
+10,13,4,£5,
+10,14,1,Fife,
+10,14,2,Edinburgh,
+10,14,3,Ayr,yes
+10,14,4,St Andrews,
+10,15,1,Constitutional monarchy,yes
+10,15,2,Constitutional republic,
+10,16,1,France,
+10,16,2,Portugal,
+10,16,3,Spain,yes
+10,16,4,Italy,
+10,17,1,That every prisoner has a right to a court hearing,yes
+10,17,2,A salary for members of Parliament (MPs),
+10,17,3,"Financial help for the unemployed, old-age pensions and free school meals",
+10,17,4,Measures to improve the conditions of workers,
+10,18,1,The right to liberty and security,
+10,18,2,The right for women to vote,yes
+10,18,3,Freedom of expression,
+10,18,4,The right to a fair trial,
+10,19,1,"An annual event that gives awards in a range of categories, such as best British group and best British solo artist",
+10,19,2,"An annual cultural festival which includes music, dance, art and original performances largely in Welsh",
+10,19,3,An eight-week summer season of daily orchestral classical music concerts,yes
+10,19,4,Light-hearted plays with music and comedy,
+10,20,1,The discovery of insulin,
+10,20,2,The discovery of gravity,yes
+10,20,3,The discovery of penicillin,
+10,20,4,The discovery of steam power,
+10,21,1,In 1922,
+10,21,2,In 1918,yes
+10,21,3,In 1945,
+10,21,4,In 1943,
+10,22,1,Boudicca,
+10,22,2,Emperor Hadrian,yes
+10,22,3,Emperor Claudius,
+10,22,4,Julius Caesar,
+10,23,1,The University of Oxford,yes
+10,23,2,The University of Cambridge,yes
+10,23,3,The University of Manchester,
+10,23,4,The University of Warwick,
+10,24,1,Yes,
+10,24,2,No,yes
+11,1,1,Yes,
+11,1,2,No,yes
+11,2,1,Docklands,
+11,2,2,London’s East End,
+11,2,3,London’s West End,yes
+11,2,4,London’s South End,
+11,3,1,Euro,
+11,3,2,Pound Sterling,yes
+11,3,3,Peso,
+11,3,4,Dollar,
+11,4,1,The Festival of Lights,yes
+11,4,2,Ash Wednesday,
+11,4,3,Good Friday,
+11,4,4,Easter Monday,
+11,5,1,A period of total peace in England,
+11,5,2,"A period when new ideas about politics, philosophy and science were developed",yes
+11,5,3,A period when England became the largest empire the world had ever seen,
+11,5,4,A period of economic recovery after the Second World War,
+11,6,1,NSPCC,
+11,6,2,Shelter,
+11,6,3,Friends of the Earth,yes
+11,6,4,Crisis,
+11,7,1,The Battle of Britain,yes
+11,7,2,The Battle of Worcester,
+11,7,3,The Battle of Dunbar,
+11,7,4,The Battle of Marston Moor,
+11,8,1,She fought for the right to vote for women,
+11,8,2,She was the first woman Prime Minister of the UK,yes
+11,8,3,She set up the women’s Franchise League,
+11,8,4,She was the founder of modern nursing,
+11,9,1,Latin,
+11,9,2,Anglo-Saxon,yes
+11,9,3,Proto-Celtic,
+11,9,4,Norman French,yes
+11,10,1,True,yes
+11,10,2,False,
+11,11,1,France,
+11,11,2,Spain,yes
+11,11,3,Italy,
+11,11,4,South America,
+11,12,1,Dumfries,
+11,12,2,Cenotaph,yes
+11,12,3,Royal Crescent,
+11,12,4,The White Tower,
+11,13,1,True,
+11,13,2,False,yes
+11,14,1,A Catholic church,
+11,14,2,A Protestant church,yes
+11,15,1,After the Viking invasion,
+11,15,2,After the Norman conquest,yes
+11,15,3,After the last Roman invasion,
+11,15,4,After the Anglo-Saxon invasion,
+11,16,1,Immigration,yes
+11,16,2,Education,
+11,16,3,Agriculture,
+11,16,4,Defence,yes
+11,17,1,Write a complaint letter to the House of Commons,
+11,17,2,Go to the Police station directly,yes
+11,17,3,Write to the Chief Constable of the police force involved,yes
+11,17,4,Write to your MP,
+11,18,1,Rose,
+11,18,2,Daffodil,yes
+11,18,3,Thistle,
+11,18,4,Shamrock,
+11,19,1,17th April,
+11,19,2,31st December,
+11,19,3,1st March,
+11,19,4,30th November,yes
+11,20,1,Robert Adam,
+11,20,2,Sir Christopher Wren,yes
+11,20,3,Sir Norman Foster,
+11,20,4,Dame Zaha Hadid,
+11,21,1,The Stone Age,
+11,21,2,The Bronze Age,
+11,21,3,The Iron Age,yes
+11,21,4,The Middle Ages,
+11,22,1,A suffragette,yes
+11,22,2,A nurse,
+11,22,3,A doctor,
+11,22,4,A scientist,
+11,23,1,Turkey,
+11,23,2,Russia,yes
+11,23,3,France,
+11,23,4,Germany,
+11,24,1,17,
+11,24,2,18,yes
+11,24,3,19,
+11,24,4,20,
+12,1,1,Shetland,
+12,1,2,Isle of Wight,
+12,1,3,Isle of Man,yes
+12,1,4,Anglesey,
+12,2,1,Yes,
+12,2,2,No,yes
+12,3,1,12,
+12,3,2,60,
+12,3,3,90,yes
+12,3,4,108,
+12,4,1,Oliver Cromwell,
+12,4,2,The Duke of Wellington,
+12,4,3,Robert the Bruce,
+12,4,4,Admiral Nelson,yes
+12,5,1,The names of Iron Age kings,yes
+12,5,2,The names of Iron Age Gods,
+12,5,3,The names of trees,
+12,5,4,The names of animals,
+12,6,1,True,
+12,6,2,False,yes
+12,7,1,Glasgow,
+12,7,2,Cardiff,
+12,7,3,London,yes
+12,7,4,Belfast,
+12,8,1,Authorised version,yes
+12,8,2,Reformed version,
+12,8,3,Approved version,
+12,8,4,Unique version,
+12,9,1,A downgrade in manufacturing,
+12,9,2,A growth in British fashion and pop music,yes
+12,9,3,A shortage of water,
+12,9,4,A blockage of social laws,
+12,10,1,Pakistan,
+12,10,2,Germany,
+12,10,3,India,
+12,10,4,France,yes
+12,11,1,The Queen's Club Championships,
+12,11,2,Wimbledon,yes
+12,11,3,Roland Garros,
+12,11,4,The Aegon Championships,
+12,12,1,True,
+12,12,2,False,yes
+12,13,1,April Fool’s Day,yes
+12,13,2,Boxing Day,
+12,13,3,Halloween,
+12,13,4,Valentine’s Day,
+12,14,1,King Charles I,
+12,14,2,King James I,
+12,14,3,Admiral Nelson,
+12,14,4,Robert the Bruce,yes
+12,15,1,Sir Tim Berners-Lee,yes
+12,15,2,Sir Peter Mansfield,
+12,15,3,Sir Ian Wilmot,
+12,15,4,Sir Robert Edwards,
+12,16,1,They are chosen on merit and form part of the Liberal Democrats party,
+12,16,2,They are chosen randomly and form part of the Conservative party,
+12,16,3,They are chosen randomly and are politically neutral,
+12,16,4,They are chosen on merit and are politically neutral,yes
+12,17,1,When the German air force bombed London and other British cities at night-time,
+12,17,2,The evacuation of Allied soldiers from France during World War II,yes
+12,17,3,When new social classes appeared after the Black Death,
+12,17,4,The period when many refugees called Huguenots came from France,
+12,18,1,True,
+12,18,2,False,yes
+12,19,1,"Respect the rights of others, including their right to their own opinions",yes
+12,19,2,Buy a house in the UK,
+12,19,3,Look after yourself and your family,yes
+12,19,4,Marry a British citizen,
+12,20,1,The Football World Cup,
+12,20,2,The Rugby World Cup,
+12,20,3,The Olympic games,yes
+12,20,4,The Eurocup Basketball,
+12,21,1,To rule without the Parliament,yes
+12,21,2,To rule with the approval of the Parliament,
+12,21,3,To raise money for the Parliament,
+12,21,4,To restore Catholicism in Britain,
+12,22,1,The Flag of the Commonwealth,
+12,22,2,The Flag of the United Kingdom,yes
+12,22,3,The shield used by British Knights,
+12,22,4,A trade union to protect workers rights,
+12,23,1,Mo Farah,
+12,23,2,Admiral Nelson,
+12,23,3,Winston Churchill,yes
+12,23,4,Clement Attlee,
+12,24,1,Women in Britain today make up about half of the workforce.,yes
+12,24,2,Women in Britain today make up about one quarter of the workforce.,
+13,1,1,17th March,
+13,1,2,30th November,
+13,1,3,1st March,
+13,1,4,23rd April,yes
+13,2,1,Snowdonia,
+13,2,2,Loch Lomond and the Trossachs National Park,
+13,2,3,The Giant’s Causeway,
+13,2,4,The Lake District,yes
+13,3,1,The Normands,
+13,3,2,The Vikings,
+13,3,3,The Anglo-Saxons,
+13,3,4,The Romans,yes
+13,4,1,The Canterbury Tales,yes
+13,4,2,All the world’s a stage,
+13,4,3,A Midsummer Night’s dream,
+13,4,4,Great Expectations,
+13,5,1,Bank Holidays,yes
+13,5,2,Workers Holidays,
+13,5,3,Business Holidays,
+13,5,4,Summer Holidays,
+13,6,1,Hiding in a farmer's house,
+13,6,2,Riding a horse,
+13,6,3,Hiding in an oak tree,yes
+13,6,4,Swimming,
+13,7,1,Harold,
+13,7,2,Edward I of England,
+13,7,3,King Arthur,
+13,7,4,King Alfred the Great,yes
+13,8,1,A poet who wrote about a group of people going to Canterbury on a pilgrimage,
+13,8,2,The first person in England to print books using a printing press,yes
+13,8,3,The first person to sail singlehanded around the world,
+13,8,4,The inventor of the television,
+13,9,1,The Houses of the Parliament,
+13,9,2,The Tower of London,yes
+13,9,3,The O2,
+13,9,4,The Big Ben,
+13,10,1,Glasgow,
+13,10,2,Galloway,
+13,10,3,Highlands,yes
+13,10,4,Edinburgh,
+13,11,1,She was a Protestant,yes
+13,11,2,She was a Catholic,
+13,12,1,Sir Rex Harrison,
+13,12,2,David Niven,
+13,12,3,Richard Burton,
+13,12,4,Charlie Chaplin,yes
+13,13,1,The Royal Navy,
+13,13,2,The Police Force,
+13,13,3,The Naval Service,
+13,13,4,The Royal Air Force,yes
+13,14,1,True,
+13,14,2,False,yes
+13,15,1,John Masefield,
+13,15,2,Wilfred Owen,
+13,15,3,Siegfried Sassoon,
+13,15,4,William Wordsworth,yes
+13,16,1,Germany,
+13,16,2,Italy,
+13,16,3,France,yes
+13,16,4,Spain,
+13,17,1,A poet,
+13,17,2,A sportsman,
+13,17,3,A politician,yes
+13,17,4,A musician,
+13,18,1,The Archbishop of Canterbury,yes
+13,18,2,The Archbishop of London,
+13,18,3,The Archbishop of Birmingham,
+13,18,4,The Archbishop of Manchester,
+13,19,1,Wales,
+13,19,2,Ireland,
+13,19,3,France,
+13,19,4,Scotland,yes
+13,20,1,Most shops in the UK open seven days a week.,yes
+13,20,2,All shops in the UK close on Sundays and bank holidays.,
+13,21,1,France,
+13,21,2,Germany,
+13,21,3,Spain,yes
+13,21,4,Italy,
+13,22,1,"Edinburgh, Scotland",
+13,22,2,"Newmarket, Suffolk",yes
+13,22,3,"St Andrews, Scotland",
+13,22,4,Aintree near Liverpool,
+13,23,1,Crathes Castle,yes
+13,23,2,Caernarfon Castle,
+13,23,3,Bodiam Castle,
+13,23,4,Powis Castle,
+13,24,1,Alexander McQueen,
+13,24,2,Thomas Chippendale,
+13,24,3,Clarice Cliff,yes
+13,24,4,Mary Quant,
+14,1,1,23rd April,
+14,1,2,30th November,
+14,1,3,1st April,
+14,1,4,17th March,yes
+14,2,1,By a system of proportional representation,yes
+14,2,2,Using a system of ranked voting,
+14,2,3,Using the first past the post system,
+14,2,4,Using a runoff system,
+14,3,1,Winston Churchill,
+14,3,2,Earl of Wilmington,
+14,3,3,Henry Pelham,
+14,3,4,Sir Robert Walpole,yes
+14,4,1,Tilda Swinton,
+14,4,2,Emily Watson,yes
+14,4,3,Dame Judi Dench,
+14,4,4,Kate Winslet,
+14,5,1,Physics,
+14,5,2,Economics,yes
+14,5,3,Science,
+14,5,4,Engineering,
+14,6,1,Admiral Nelson,yes
+14,6,2,Henry VIII,
+14,6,3,Oliver Cromwell,
+14,6,4,Napoleon,
+14,7,1,25th of December,
+14,7,2,2nd of January,
+14,7,3,1st of January,
+14,7,4,31st of December,yes
+14,8,1,Canvassing,
+14,8,2,Hansard,yes
+14,8,3,Cabinets,
+14,8,4,Domesday Book,
+14,9,1,The Scottish Grand National,
+14,9,2,The Wimbledon Championships,
+14,9,3,The Ashes,
+14,9,4,The Six Nations Championship,yes
+14,10,1,The Speaker,
+14,10,2,The Archbishop of Canterbury,
+14,10,3,The Prime Minister,
+14,10,4,The monarch,yes
+14,11,1,James Cook,yes
+14,11,2,Admiral Nelson,
+14,11,3,Isaac Newton,
+14,11,4,Sake Dean Mahomet,
+14,12,1,The Boer War,
+14,12,2,The First World War,
+14,12,3,The Second World War,
+14,12,4,The Crimean War,yes
+14,13,1,Hadrian’s Wall,
+14,13,2,St Paul’s Cathedral,
+14,13,3,Nelson’s Column,
+14,13,4,Stonehenge,yes
+14,14,1,St Patrick,
+14,14,2,St Augustine,yes
+14,14,3,St Andrew,
+14,14,4,St Columba,
+14,15,1,18,yes
+14,15,2,20,
+14,15,3,16,
+14,15,4,21,
+14,16,1,True,yes
+14,16,2,False,
+14,17,1,Haggis,
+14,17,2,Pancakes,
+14,17,3,Paella,
+14,17,4,Ulster Fry,yes
+14,18,1,Clement Attlee,yes
+14,18,2,Winston Churchill,
+14,18,3,Harold Wilson,
+14,18,4,Harold Macmillan,
+14,19,1,5,
+14,19,2,3,yes
+14,19,3,4,
+14,19,4,8,
+14,20,1,To link the factories to towns and cities and to the ports,yes
+14,20,2,To make space for the large fleet of British ships,
+14,20,3,To increase the number of water mills in the UK,
+14,20,4,To increase the amount of water in towns and cities,
+14,21,1,Yes,
+14,21,2,No,yes
+14,22,1,Germany,
+14,22,2,Norway,
+14,22,3,Italy,
+14,22,4,France,yes
+14,23,1,Magnetic Resonance Imaging,
+14,23,2,Steam power,yes
+14,23,3,Radar,
+14,23,4,Hovercraft,
+14,24,1,Columba,
+14,24,2,Claudius,
+14,24,3,Hadrian,
+14,24,4,Boudicca,yes
+15,1,1,Welsh,
+15,1,2,Gaelic,
+15,1,3,Norman French,yes
+15,1,4,Anglo-Saxon,yes
+15,2,1,North African,
+15,2,2,Asian,
+15,2,3,North American,yes
+15,2,4,South African,
+15,3,1,When Elizabeth I died without any successor,
+15,3,2,When Charles I was executed,yes
+15,3,3,When the Carta Magna restricted the king’s power,
+15,3,4,When kind Harold died after the Battle of Hastings,
+15,4,1,Harry Potter,yes
+15,4,2,Spider-man,
+15,4,3,The Lord of the Rings,
+15,4,4,Indiana Jones,
+15,5,1,"10,000 years ago",
+15,5,2,"6,000 years ago",yes
+15,5,3,"15,000 years ago",
+15,5,4,"2,000 years ago",
+15,6,1,At 12.00 pm on 11th November 1914,
+15,6,2,At 12.00 pm on 11th November 1918,
+15,6,3,At 11.00 am on 11th November 1914,
+15,6,4,At 11.00 am on 11th November 1918,yes
+15,7,1,Yes,yes
+15,7,2,No,
+15,8,1,She did not win any medals,
+15,8,2,Silver,
+15,8,3,Gold,yes
+15,8,4,Bronze,
+15,9,1,Up to 3 specially trained magistrates,yes
+15,9,2,A District Judge,yes
+15,9,3,A sheriff,
+15,9,4,Up to 5 specially trained magistrates,
+15,10,1,The jet engine,
+15,10,2,The television,
+15,10,3,The Turing machine,yes
+15,10,4,The ball pen,
+15,11,1,The Domesday Book,yes
+15,11,2,The Book of Common Prayer,
+15,11,3,The Canterbury Tales,
+15,11,4,The Carta Magna,
+15,12,1,Alexander Fleming,
+15,12,2,Alan Turing,
+15,12,3,Ernest Rutherford,yes
+15,12,4,Sir Peter Mansfield,
+15,13,1,Auld Lang Syne,yes
+15,13,2,The British Anthem,
+15,13,3,Jingle Bells,
+15,13,4,White Christmas,
+15,14,1,The House of York and the House of Lancaster,
+15,14,2,The Anglo-Saxons and the Vikings,
+15,14,3,The Cavaliers and the Roundheads,yes
+15,14,4,The House of Fraser and the House of Stuart,
+15,15,1,Vindolanda,yes
+15,15,2,Maiden Castle,
+15,15,3,Housesteads,yes
+15,15,4,Grimsby,
+15,16,1,Hindu,
+15,16,2,Catholic,
+15,16,3,Sikh,
+15,16,4,Protestant,yes
+15,17,1,Fenians,yes
+15,17,2,Quakers,
+15,17,3,Highlanders,
+15,17,4,Suffragettes,
+15,18,1,The Rolling Stones,yes
+15,18,2,The Beatles,yes
+15,18,3,ABBA,
+15,18,4,Radiohead,
+15,19,1,16 years old,
+15,19,2,17 years old,yes
+15,19,3,18 years old,
+15,19,4,21 years old,
+15,20,1,True,
+15,20,2,False,yes
+15,21,1,1835,
+15,21,2,1823,
+15,21,3,1807,
+15,21,4,1833,yes
+15,22,1,The Chancellor of the Exchequer,
+15,22,2,The Foreign Secretary,
+15,22,3,The Speaker,
+15,22,4,The Home Secretary,yes
+15,23,1,A soap opera,
+15,23,2,A silent movie,
+15,23,3,An animated film,yes
+15,23,4,An action film,
+15,24,1,True,yes
+15,24,2,False,
+16,1,1,After the First World War.,
+16,1,2,After the Second World War.,yes
+16,1,3,Before the First World War.,
+16,1,4,Before the Second World War.,
+16,2,1,Scotland,
+16,2,2,England,
+16,2,3,Wales,
+16,2,4,Northern Ireland,yes
+16,3,1,She got married.,
+16,3,2,She was sent to France.,
+16,3,3,She was executed.,yes
+16,3,4,She was sent to Scotland.,
+16,4,1,The Gepids,
+16,4,2,The Jutes,yes
+16,4,3,The Frisians,
+16,4,4,The Burgundians,
+16,5,1,James Bond,yes
+16,5,2,Star Wars,
+16,5,3,The Lord of the Rings,
+16,5,4,Superman,
+16,6,1,Specially trained magistrates.,yes
+16,6,2,Social workers.,
+16,6,3,District judges.,yes
+16,6,4,Members of the public.,
+16,7,1,William II,
+16,7,2,Charles II,yes
+16,7,3,Edward II,
+16,7,4,George II,
+16,8,1,14- and 15-year-olds,
+16,8,2,15- and 16-year-olds,
+16,8,3,16- and 17-year-olds,yes
+16,8,4,17- and 18-year-olds,
+16,9,1,Chariots of Fire,
+16,9,2,Wallace and Gromit,yes
+16,9,3,Four Weddings and a Funeral,
+16,9,4,Women in Love,
+16,10,1,Sir Ian Wilmot,
+16,10,2,Keith Campbell,
+16,10,3,James Watt,
+16,10,4,Francis Crick,yes
+16,11,1,Around 5%,
+16,11,2,Around 10%,yes
+16,11,3,Around 15%,
+16,11,4,Around 20%,
+16,12,1,15 years old,
+16,12,2,16 years old,yes
+16,12,3,17 years old,
+16,12,4,18 years old,
+16,13,1,James Callaghan,
+16,13,2,Clement Attlee,
+16,13,3,Gordon Brown,
+16,13,4,Tony Blair,yes
+16,14,1,"£3,000",
+16,14,2,"£5,000",yes
+16,14,3,"£8,000",
+16,14,4,"£10,000",
+16,15,1,St Paul’s Cathedral,
+16,15,2,The Cenotaph,
+16,15,3,Dumfries House,
+16,15,4,The White Tower,yes
+16,16,1,James Callaghan,
+16,16,2,John Major,yes
+16,16,3,Tony Blair,
+16,16,4,Harold Wilson,
+16,17,1,Your local Council.,
+16,17,2,Your local MP.,
+16,17,3,Your local police force.,yes
+16,17,4,The Prime Minister.,
+16,18,1,Sophie Christiansen,
+16,18,2,Ellie Simmonds,yes
+16,18,3,Baroness Tanni Grey-Thompson,
+16,18,4,David Weir,
+16,19,1,Wales,
+16,19,2,Northern Ireland,
+16,19,3,Scotland,
+16,19,4,England,yes
+16,20,1,The construction of the Great Western Railway.,yes
+16,20,2,The invention of the television.,
+16,20,3,The construction of the Tower of London.,
+16,20,4,The discovery of insulin.,
+16,21,1,An organization responsible for the protection and promotion of human rights in its member countries.,
+16,21,2,A group of European and North American countries that have agreed to help each other if they come under attack.,
+16,21,3,An association of countries that support each other and work together towards shared goals in democracy and development.,yes
+16,21,4,An international organization that aims to prevent war and promote international peace and security.,
+16,22,1,The Spanish Inquisition,
+16,22,2,The Holy Wars,
+16,22,3,The Reformation,yes
+16,22,4,The Enlightenment,
+16,23,1,Gravity,yes
+16,23,2,Penicillin,
+16,23,3,Insulin,
+16,23,4,Lightbulb,
+16,24,1,Action movies,
+16,24,2,Animated movies,yes
+16,24,3,Thrillers,
+16,24,4,Horror movies,
+17,1,1,The Parliament,
+17,1,2,The cabinet,
+17,1,3,The armed forces,yes
+17,1,4,The police,
+17,2,1,Corn,
+17,2,2,Potato,yes
+17,2,3,Wheat,
+17,2,4,Oats,
+17,3,1,Shadow Cabinet,yes
+17,3,2,Lobby groups,
+17,3,3,Civil servants,
+17,3,4,Support peers,
+17,4,1,Protect life and property,
+17,4,2,Represent everyone in their constituency,yes
+17,4,3,Help to create new laws,yes
+17,4,4,Scrutinise and comment on what the monarch is doing,
+17,5,1,John Major,
+17,5,2,Sir Alec Douglas-Home,
+17,5,3,Robert Walpole,
+17,5,4,Margaret Thatcher,yes
+17,6,1,Crown Dependencies,yes
+17,6,2,Offshore Territories,
+17,6,3,Crown Independencies,
+17,6,4,British Colonies,
+17,7,1,Architecture,
+17,7,2,Poetry,
+17,7,3,Cinema,
+17,7,4,Philosophy,yes
+17,8,1,Half of the population,
+17,8,2,One third of the population,yes
+17,8,3,55% of the population,
+17,8,4,One quarter of the population,
+17,9,1,He moved to Spain,
+17,9,2,He became a priest,
+17,9,3,He escaped to France,
+17,9,4,He was executed,yes
+17,10,1,To appoint the members of the cabinet,
+17,10,2,"To advise, warn and encourage the Prime Minister\'s decisions on government policies",yes
+17,10,3,To debate important national issues,
+17,10,4,To appoint the government,yes
+17,11,1,A plague,yes
+17,11,2,A big fire,
+17,11,3,A famine,
+17,11,4,A drought,
+17,12,1,Andorra,
+17,12,2,Germany,
+17,12,3,France,yes
+17,12,4,Luxembourg,
+17,13,1,True,yes
+17,13,2,False,
+17,14,1,Scotland,yes
+17,14,2,Wales,
+17,14,3,England,
+17,14,4,Northern Ireland,
+17,15,1,MacBeth,yes
+17,15,2,The Canterbury Tales,
+17,15,3,Doctor Faustus,
+17,15,4,The Mikado,
+17,16,1,Italy,
+17,16,2,Portugal,
+17,16,3,France,yes
+17,16,4,Ireland,
+17,17,1,Blacksmiths,
+17,17,2,Boers,yes
+17,17,3,Conquistadors,
+17,17,4,Beefeaters,
+17,18,1,True,yes
+17,18,2,False,
+17,19,1,He was the first man in the world to run a mile in under four minutes.,yes
+17,19,2,He won gold medals for ice dancing at the Olympic Games in 1984.,
+17,19,3,He won gold medals in rowing in five consecutive Olympic Games.,
+17,19,4,He was the first British to climb Mount Everest.,
+17,20,1,The Duke of Medina Sidonia,
+17,20,2,Napoleon,
+17,20,3,King Philip II of Spain,
+17,20,4,William of Orange,yes
+17,21,1,James I,
+17,21,2,James II,yes
+17,21,3,Richard I,
+17,21,4,Richard II,
+17,22,1,It limited the number of hours that everybody could work to 10 hours per day.,
+17,22,2,It increased the number of hours that women and children could work to 12 hours per day.,
+17,22,3,It increased the number of hours that men could work to 12 hours per day.,
+17,22,4,It limited the number of hours that women and children could work to 10 hours per day.,yes
+17,23,1,Roundheads,
+17,23,2,Cavaliers,
+17,23,3,Shadow Cabinet,yes
+17,23,4,Quakers,
+17,24,1,Education,yes
+17,24,2,Immigration,
+17,24,3,Security,
+17,24,4,Defence,
+2,1,1,Health,
+2,1,2,Defence,
+2,1,3,Education,
+2,1,4,Policing,yes
+2,2,1,True,
+2,2,2,False,yes
+2,3,1,True,yes
+2,3,2,False,
+2,4,1,That your dog does not play with other dogs,
+2,4,2,That your dog wears a collar showing the name and address of the owner,yes
+2,4,3,That your dog wears a high visibility jacket,
+2,4,4,That your dog does not bark,
+2,5,1,The Second World War,
+2,5,2,The Crimean War,
+2,5,3,The First World War,yes
+2,5,4,The Civil War,
+2,6,1,1925,
+2,6,2,1939,
+2,6,3,1949,yes
+2,6,4,1927,
+2,7,1,South-west Europe,
+2,7,2,South-east Europe,yes
+2,7,3,North-east America,
+2,7,4,North-west Asia,
+2,8,1,David Hockney,yes
+2,8,2,Lucian Freud,
+2,8,3,John Petts,
+2,8,4,Henry Moore,
+2,9,1,Winston Churchill,yes
+2,9,2,Clement Attlee,
+2,9,3,Margaret Thatcher,
+2,9,4,Sir Robert Walpole,
+2,10,1,Emperor Hadrian,
+2,10,2,Julius Caesar,yes
+2,10,3,Canute,
+2,10,4,"William, the Duke of Normandy",
+2,11,1,William of Orange,
+2,11,2,King Alfred the Great,yes
+2,11,3,Henry VIII,
+2,11,4,Robert the Bruce,
+2,12,1,1514,
+2,12,2,1215,yes
+2,12,3,1415,
+2,12,4,1314,
+2,13,1,True,yes
+2,13,2,False,
+2,14,1,Pride and Prejudice,
+2,14,2,A Midsummer Night’s dream,yes
+2,14,3,Sense and Sensibility,
+2,14,4,Great Expectations,
+2,15,1,9,
+2,15,2,12,yes
+2,15,3,15,
+2,15,4,20,
+2,16,1,Buddhists,
+2,16,2,Hindus,yes
+2,16,3,Jews,
+2,16,4,Sikhs,yes
+2,17,1,The day when Jesus Christ rose from the dead,
+2,17,2,The day when Jesus Christ was born,
+2,17,3,The day when Jesus Christ died,yes
+2,17,4,The day when Jesus Christ became 30 years old,
+2,18,1,True,yes
+2,18,2,False,
+2,19,1,The Viking invasion,
+2,19,2,The Anglo-Saxon Conquest,
+2,19,3,The Roman invasion,
+2,19,4,The Norman Conquest,yes
+2,20,1,At the House of Commons,
+2,20,2,At the Tower of London,yes
+2,20,3,At Buckingham Palace,
+2,20,4,At Windsor Castle,
+2,21,1,Golf,yes
+2,21,2,Tennis,
+2,21,3,Football,
+2,21,4,Rugby,
+2,22,1,William Shakespeare,
+2,22,2,John Barbour,
+2,22,3,Geoffrey Chaucer,
+2,22,4,William Caxton,yes
+2,23,1,High Court,
+2,23,2,Justice of the Peace Court,
+2,23,3,Magistrates’ Court,yes
+2,23,4,Crown Court,
+2,24,1,Television,yes
+2,24,2,Radar,
+2,24,3,Personal computer,
+2,24,4,Radio,
+3,1,1,Communism,
+3,1,2,Intolerance,
+3,1,3,Individual liberty,yes
+3,1,4,Inequity,
+3,2,1,True,
+3,2,2,False,yes
+3,3,1,Vaisakhi,
+3,3,2,Hannukah,
+3,3,3,Diwali,
+3,3,4,Hogmanay,yes
+3,4,1,To celebrate his wedding with Anne of Cleves,
+3,4,2,To have control over religious people,
+3,4,3,To establish a unique religion in England,
+3,4,4,"To divorce his first wife, Catherine of Aragon",yes
+3,5,1,The Crimean War,
+3,5,2,The First World War,
+3,5,3,The Hundred Years War,yes
+3,5,4,The Boer War,
+3,6,1,Bonnie Prince Charlie,yes
+3,6,2,Robert Burns,
+3,6,3,Oliver Cromwell,
+3,6,4,Kenneth MacAlpin,
+3,7,1,The Home Office,
+3,7,2,Your local police force,yes
+3,7,3,Your local MP,
+3,7,4,Your family,
+3,8,1,True,
+3,8,2,False,yes
+3,9,1,Knights,
+3,9,2,Chartists,
+3,9,3,Suffragettes,
+3,9,4,Beefeaters,yes
+3,10,1,Italy,
+3,10,2,Britain,yes
+3,10,3,Germany,
+3,10,4,France,yes
+3,11,1,Scotland,
+3,11,2,Wales,yes
+3,11,3,England,
+3,11,4,Northern Ireland,
+3,12,1,Evelyn Waugh,
+3,12,2,Sir Kingsley Amis,
+3,12,3,Graham Greene,
+3,12,4,Sir Arthur Conan Doyle,yes
+3,13,1,Austria,
+3,13,2,Italy,
+3,13,3,Russia,
+3,13,4,Poland,yes
+3,14,1,St David,yes
+3,14,2,St George,
+3,14,3,St Patrick,
+3,14,4,St Andrew,
+3,15,1,True,yes
+3,15,2,False,
+3,16,1,Soho,
+3,16,2,Theatreland,yes
+3,16,3,Westminster,
+3,16,4,Hyde Park,
+3,17,1,Monitoring student's behaviour,
+3,17,2,Monitoring and evaluating school performance,yes
+3,17,3,Setting the strategic direction of the school,yes
+3,17,4,Giving awards to the best students of the school,
+3,18,1,The British government wanted to control their borders,
+3,18,2,They were running out of resources,
+3,18,3,The British government wanted to tax them,yes
+3,18,4,There were not enough jobs for the local people,
+3,19,1,The Golden Age,
+3,19,2,The Stone Age,
+3,19,3,The Middle Ages,yes
+3,19,4,The Iron Age,
+3,20,1,Queen Victoria,
+3,20,2,Oliver Cromwell,
+3,20,3,Florence Nightingale,
+3,20,4,Emmeline Pankhurst,yes
+3,21,1,Scotland,
+3,21,2,Northern Ireland,
+3,21,3,Ireland,
+3,21,4,Wales,yes
+3,22,1,Housing construction,
+3,22,2,Shipbuilding,yes
+3,22,3,Automobile,
+3,22,4,Aviation,
+3,23,1,Sir Chris Hoy,
+3,23,2,Sir Roger Bannister,yes
+3,23,3,David Weir,
+3,23,4,Mo Farah,
+3,24,1,Hannukah,
+3,24,2,Vaisakhi,
+3,24,3,Eid ul Adha,
+3,24,4,Eid al-Fitr,yes
+4,1,1,The Battle of Trafalgar,
+4,1,2,The Battle of Waterloo,yes
+4,1,3,The Battle of Hastings,
+4,1,4,Battle of Agincourt,
+4,2,1,Daffodil,yes
+4,2,2,Rose,
+4,2,3,Shamrock,
+4,2,4,Thistle,
+4,3,1,A war,
+4,3,2,A flood,
+4,3,3,A fire,yes
+4,3,4,An earthquake,
+4,4,1,Every 3 years,
+4,4,2,Every 4 years,
+4,4,3,Every 5 years,yes
+4,4,4,Every 10 years,
+4,5,1,True,yes
+4,5,2,False,
+4,6,1,Shelter,
+4,6,2,Age UK,
+4,6,3,Crisis,
+4,6,4,The National Trust,yes
+4,7,1,True,yes
+4,7,2,False,
+4,8,1,Cleopatra,
+4,8,2,Claudia,
+4,8,3,Boudicca,yes
+4,8,4,St Augustine,
+4,9,1,Isaac Newton,
+4,9,2,Winston Churchill,yes
+4,9,3,Alexander Fleming,
+4,9,4,Mo Farat,
+4,10,1,The House of Lords,yes
+4,10,2,House of Members,
+4,10,3,House of Commons,yes
+4,10,4,House of Fraser,
+4,11,1,1918,
+4,11,2,1928,yes
+4,11,3,1938,
+4,11,4,1948,
+4,12,1,The Prime Minister,
+4,12,2,The Archbishop of Canterbury,
+4,12,3,The Pope,
+4,12,4,The monarch,yes
+4,13,1,Rugby,
+4,13,2,Golf,
+4,13,3,Horse Racing,yes
+4,13,4,Tennis,
+4,14,1,Poems,yes
+4,14,2,Novels,
+4,14,3,Jokes,
+4,14,4,Fables,
+4,15,1,24th of December,
+4,15,2,25th of December,yes
+4,15,3,26th of December,
+4,15,4,27th of December,
+4,16,1,Roundheads,
+4,16,2,Suffragettes,
+4,16,3,Quakers,
+4,16,4,Cavaliers,yes
+4,17,1,The Battle of Waterloo,
+4,17,2,The Battle of Trafalgar,
+4,17,3,The Battle of Hastings,yes
+4,17,4,The Battle of Britain,
+4,18,1,Houses of the Parliament,
+4,18,2,Stonehenge,
+4,18,3,Tower of London,yes
+4,18,4,Whitehall,
+4,19,1,Civil offences,
+4,19,2,Criminal offences,yes
+4,20,1,A superhero,
+4,20,2,A tramp,yes
+4,20,3,A scientific genius,
+4,20,4,A bandit,
+4,21,1,True,
+4,21,2,False,yes
+4,22,1,John Logie Baird,
+4,22,2,Sir Frank Whittle,
+4,22,3,Sir Christopher Cockrell,
+4,22,4,Sir Robert Watson-Watt,yes
+4,23,1,18 Oxford Street,
+4,23,2,Buckingham Palace,
+4,23,3,Windsor Castle,
+4,23,4,10 Downing Street,yes
+4,24,1,Television,yes
+4,24,2,Internet,
+4,24,3,Newspapers,
+4,24,4,Radio,yes
+5,1,1,November or December,
+5,1,2,January or February,
+5,1,3,March or April,yes
+5,1,4,May or June,
+5,2,1,1p,
+5,2,2,5p,
+5,2,3,25p,yes
+5,2,4,£1,
+5,3,1,Dorset,
+5,3,2,Cornwall,yes
+5,3,3,Devon,
+5,3,4,Somerset,
+5,4,1,True,
+5,4,2,False,yes
+5,5,1,Monarchy,
+5,5,2,The rule of law,yes
+5,5,3,Democracy,yes
+5,5,4,Join a political party,
+5,6,1,The electoral register,yes
+5,6,2,Your local church,
+5,6,3,The NHS,
+5,6,4,The British Embassy,
+5,7,1,Catholic,
+5,7,2,Baptist,
+5,7,3,Presbyterian,yes
+5,7,4,Methodist,
+5,8,1,Wales,
+5,8,2,Australia,
+5,8,3,Ireland,
+5,8,4,Scotland,yes
+5,9,1,Valentine’s Day,
+5,9,2,Boxing Day,
+5,9,3,Halloween,
+5,9,4,April Fool’s Day,yes
+5,10,1,Richard III,
+5,10,2,Charles II,yes
+5,10,3,James I,
+5,10,4,Henry IV,
+5,11,1,Edward I,
+5,11,2,Henry V,
+5,11,3,Henry VII,
+5,11,4,Henry VIII,yes
+5,12,1,True,
+5,12,2,False,yes
+5,13,1,St George,
+5,13,2,St Patrick,yes
+5,13,3,St Andrew,
+5,13,4,St David,
+5,14,1,The Enlightenment,yes
+5,14,2,The Glorious Revolution,
+5,14,3,The Swinging Sixties,
+5,14,4,The Reformation,
+5,15,1,"Mary Stuart (‘Mary, Queen of Scots’) was a Protestant",
+5,15,2,"Mary Stuart (‘Mary, Queen of Scots’) was a Catholic",yes
+5,16,1,To sell tobacco products to anyone under the age of 18,
+5,16,2,To buy alcohol for people who are under the age of 18,
+5,16,3,Discrimination in the workplace,yes
+5,16,4,"To carry a weapon of any kind, even if it is for self-defence",
+5,17,1,The Battle of Hastings,
+5,17,2,The Battle of Waterloo,
+5,17,3,The Battle of Trafalgar,yes
+5,17,4,The Battle of Bannockburn,
+5,18,1,The 'Glorious Revolution',yes
+5,18,2,The Restoration,
+5,18,3,The 'Great Depression',
+5,18,4,The 'Blitz',
+5,19,1,An environmental charity,yes
+5,19,2,A medical research charity,
+5,19,3,A charity working with pets,
+5,19,4,A charity working with older people,
+5,20,1,True,yes
+5,20,2,False,
+5,21,1,Netherlands,
+5,21,2,Falkland Islands,
+5,21,3,Gibraltar,
+5,21,4,South Africa,yes
+5,22,1,Donating blood to help people,
+5,22,2,Volunteering for an environmental charity,
+5,22,3,Caring for animals at a local rescue shelter,
+5,22,4,Persuading people to vote for a political party,yes
+5,23,1,Oliver Twist,
+5,23,2,James Bond,
+5,23,3,Pride and Prejudice,
+5,23,4,The Lord of the Rings,yes
+5,24,1,1942,
+5,24,2,1941,
+5,24,3,1940,
+5,24,4,1939,yes
+6,1,1,To respect and obey the law,yes
+6,1,2,To walk your dog only during the day,
+6,1,3,To go to church on Sunday,
+6,1,4,To look after yourself and your family,yes
+6,2,1,The people of the Stone Age,
+6,2,2,The Anglo-saxons,
+6,2,3,The people of the Iron Age,yes
+6,2,4,The Romans,
+6,3,1,William the Conqueror,yes
+6,3,2,Queen Victoria,
+6,3,3,Queen Elizabeth I,
+6,3,4,Oliver Cromwell,
+6,4,1,Giant greenhouses,
+6,4,2,Land formations of columns made from volcanic lava,
+6,4,3,Areas of protected countryside,yes
+6,4,4,Medieval buildings,
+6,5,1,True,
+6,5,2,False,yes
+6,6,1,Wales,yes
+6,6,2,Northern Ireland,
+6,6,3,England,yes
+6,6,4,Scotland,yes
+6,7,1,Every day,
+6,7,2,Every week,yes
+6,7,3,Every two weeks,
+6,7,4,Once a month,
+6,8,1,James I,
+6,8,2,Charles II,
+6,8,3,James VII,
+6,8,4,Charles I,yes
+6,9,1,Manchester,
+6,9,2,Oldham,
+6,9,3,Stratford-upon-Avon,yes
+6,9,4,Lincolnshire,
+6,10,1,Dame Kelly Holmes,
+6,10,2,Baroness Tanni Grey-Thompson,yes
+6,10,3,Jayne Torvill,
+6,10,4,Ellie Simmonds,yes
+6,11,1,Queen Victoria,
+6,11,2,Henry VIII,
+6,11,3,Elizabeth I,yes
+6,11,4,Charles II,
+6,12,1,True,
+6,12,2,False,yes
+6,13,1,Father’s Day,
+6,13,2,Christmas Day,yes
+6,13,3,New Year,
+6,13,4,Boxing Day,
+6,14,1,A battle in the sea,
+6,14,2,An aerial battle,yes
+6,14,3,A battle in the mountains,
+6,14,4,A battle without rifles,
+6,15,1,England,
+6,15,2,Northern Ireland,
+6,15,3,Scotland,
+6,15,4,Wales,yes
+6,16,1,The Conservative Party,yes
+6,16,2,The Green Party,
+6,16,3,The Labour Party,
+6,16,4,The Liberal Democrats Party,yes
+6,17,1,Henry VIII,yes
+6,17,2,Oliver Cromwell,
+6,17,3,Winston Churchill,
+6,17,4,William of Orange,
+6,18,1,Measles,
+6,18,2,Leprosy,
+6,18,3,Smallpox,
+6,18,4,The Black Death,yes
+6,19,1,Wales,
+6,19,2,England,
+6,19,3,Northern Ireland,
+6,19,4,Scotland,yes
+6,20,1,The Sheriff Court,
+6,20,2,The Magistrates' Court,
+6,20,3,The Crown Court,
+6,20,4,The Justice of the Peace Court,yes
+6,21,1,The Magna Carta,
+6,21,2,The Domesday Book,yes
+6,21,3,The Bayeux Tapestry,yes
+6,21,4,The Canterbury Tales,
+6,22,1,Due to the outbreak of the First World War,yes
+6,22,2,Due to the outbreak of the Second World War,
+6,22,3,Because there was not a king on the British throne,
+6,22,4,Due to the outbreak of the Black Death,
+6,23,1,Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants.,yes
+6,23,2,Elizabeth I was a Catholic and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants.,
+6,24,1,"A document with your address on it, such as a tenancy agreement",
+6,24,2,Documents that prove that you have permission to work in the UK,yes
+6,24,3,A contract from your employer,
+6,24,4,Documents that prove your identity,yes
+7,1,1,Respect and obey the law,yes
+7,1,2,Vote in all elections,
+7,1,3,Take part in religious activities,
+7,1,4,Look after the area in which you live and the environment,yes
+7,2,1,5th of November,
+7,2,2,11th of November,
+7,2,3,31st of October,yes
+7,2,4,1st of April,
+7,3,1,True,
+7,3,2,False,yes
+7,4,1,The Ashes,yes
+7,4,2,The Six Nations Championship,
+7,4,3,The Grand National,
+7,4,4,The Australian Open,
+7,5,1,Fishing,
+7,5,2,Teaching,
+7,5,3,Aircraft industry,
+7,5,4,Manufacturing,yes
+7,6,1,True,yes
+7,6,2,False,
+7,7,1,Smoking in public places where it is not allowed,yes
+7,7,2,Disputes about faulty goods or services,
+7,7,3,Disputes about an unfair dismissal in the workplace,
+7,7,4,A dispute between the landlord and the tenants who have not paid the rent,
+7,8,1,The MacLaine of Lochbuie,
+7,8,2,The McDowalls of Garthland,
+7,8,3,The Macpherson of Cluny,
+7,8,4,The MacDonalds of Glencoe,yes
+7,9,1,Defence,
+7,9,2,Social security,
+7,9,3,Health,yes
+7,9,4,Education,yes
+7,10,1,The Crimean War,
+7,10,2,The First World War,yes
+7,10,3,The Civil War,
+7,10,4,The Second World War,
+7,11,1,Glasgow,
+7,11,2,St Andrews,
+7,11,3,Edinburgh,yes
+7,11,4,Aberdeen,
+7,12,1,True,yes
+7,12,2,False,
+7,13,1,The Black Death,
+7,13,2,The Corn Removal,
+7,13,3,The Highland Clearances,yes
+7,13,4,The Enlightenment,
+7,14,1,True,
+7,14,2,False,yes
+7,15,1,The Battle of Waterloo,
+7,15,2,The Battle of Marston Moor,yes
+7,15,3,The Battle of Naseby,yes
+7,15,4,The Battle of Agincourt,
+7,16,1,Chartists,
+7,16,2,Beefeaters,
+7,16,3,Suffragettes,yes
+7,16,4,Quakers,
+7,17,1,The Big Ben,
+7,17,2,Lake District,yes
+7,17,3,Snowdonia,
+7,17,4,The London Eye,
+7,18,1,Farmers,
+7,18,2,Peasants,
+7,18,3,Hunter-gatherers,yes
+7,18,4,Pirates,
+7,19,1,The Reformation,yes
+7,19,2,The Enlightenment,
+7,19,3,The Glorious Revolution,
+7,19,4,The Renaissance,
+7,20,1,Contact the NHS,
+7,20,2,Contact the Department for Work and Pensions (DWP),yes
+7,20,3,Contact your local MP,
+7,20,4,Ask you employer to get it for you,
+7,21,1,The Wimbledon Championship,
+7,21,2,Royal Ascot,yes
+7,21,3,The Open Championship,
+7,21,4,The Six Nations Championship,
+7,22,1,12,
+7,22,2,14,
+7,22,3,15,yes
+7,22,4,20,
+7,23,1,The 40 days before Christmas,
+7,23,2,The 40 days after Easter,
+7,23,3,The 40 days before Easter,yes
+7,23,4,The 40 days after Christmas,
+7,24,1,1415,
+7,24,2,1314,
+7,24,3,1066,yes
+7,24,4,1200,
+8,1,1,France,
+8,1,2,Russia,
+8,1,3,Poland,yes
+8,1,4,Austria,
+8,2,1,The Shamrock,
+8,2,2,The Rose,
+8,2,3,The Daffodil,
+8,2,4,The Thistle,yes
+8,3,1,True,
+8,3,2,False,yes
+8,4,1,Economy,
+8,4,2,Crime,yes
+8,4,3,Education,
+8,4,4,Defence,
+8,5,1,1st March,yes
+8,5,2,17th March,
+8,5,3,23rd April,
+8,5,4,17th April,
+8,6,1,She became Queen of England,
+8,6,2,She was sent to France,
+8,6,3,She escaped to Denmark,
+8,6,4,She was executed,yes
+8,7,1,The MRI (magnetic resonance imaging) scanner,
+8,7,2,The jet engine,
+8,7,3,The IVF (in-vitro fertilisation) therapy,
+8,7,4,The structure of the DNA molecule,yes
+8,8,1,True,yes
+8,8,2,False,
+8,9,1,25,
+8,9,2,15,yes
+8,9,3,18,
+8,9,4,42,
+8,10,1,Yes,
+8,10,2,No,yes
+8,11,1,The owner's address,yes
+8,11,2,The owner's name,yes
+8,11,3,The dog's breed,
+8,11,4,The dog's name,
+8,12,1,Good Friday,yes
+8,12,2,Easter Sunday,
+8,12,3,Easter Monday,
+8,12,4,Ash Wednesday,
+8,13,1,County,
+8,13,2,Estate,
+8,13,3,District,
+8,13,4,Constituency,yes
+8,14,1,It restricted the King's power,yes
+8,14,2,It increased the King's power,
+8,14,3,It restricted the rights of the farmers,
+8,14,4,It increased women's power,
+8,15,1,True,yes
+8,15,2,False,
+8,16,1,1918,yes
+8,16,2,1925,
+8,16,3,1949,
+8,16,4,1914,
+8,17,1,St Helena,yes
+8,17,2,Solomon Islands,
+8,17,3,Mauritius,
+8,17,4,The Falkland Islands,yes
+8,18,1,The Normands,
+8,18,2,The Romans,
+8,18,3,The Spanish Armada,yes
+8,18,4,The Saxons,
+8,19,1,Sir Norman Foster,
+8,19,2,Lancelot ‘Capability’ Brown,
+8,19,3,Sir Edwin Lutyens,yes
+8,19,4,Isambard Kingdom Brunel,
+8,20,1,Every 5 years,
+8,20,2,Every 2 years,
+8,20,3,Every 4 years,yes
+8,20,4,Every 3 years,
+8,21,1,1960s,yes
+8,21,2,1970s,
+8,21,3,1980s,
+8,21,4,1950s,
+8,22,1,Films,
+8,22,2,Sport,
+8,22,3,Literature,yes
+8,22,4,Music,
+8,23,1,Coalition,
+8,23,2,Pre-selection,
+8,23,3,Random selection,
+8,23,4,By-election,yes
+8,24,1,A literature award,
+8,24,2,A music award,
+8,24,3,A contemporary art award,yes
+8,24,4,A theatre award,
+9,1,1,The daffodil,
+9,1,2,The thistle,
+9,1,3,The shamrock,yes
+9,1,4,The rose,
+9,2,1,True,yes
+9,2,2,False,
+9,3,1,True,
+9,3,2,False,yes
+9,4,1,Scotland,
+9,4,2,Wales,
+9,4,3,England,yes
+9,4,4,Northern Ireland,
+9,5,1,To buy food locally,
+9,5,2,To volunteer in a community project at least once a year,
+9,5,3,To look after yourself and your family,yes
+9,5,4,"To respect the rights of others, including their right to their own opinions",yes
+9,6,1,Jane Austen,
+9,6,2,Charles Dickens,
+9,6,3,William Shakespeare,yes
+9,6,4,Thomas Hardy,
+9,7,1,"Women were given the right to vote at the age of 18, the same as men.",
+9,7,2,Women were given the right to vote at the age of 25.,
+9,7,3,Women were given the right to vote at the age of 30.,
+9,7,4,"Women were given the right to vote at the age of 21, the same as men.",yes
+9,8,1,Christmas Day in Wales,
+9,8,2,New Year's Eve in Scotland,yes
+9,8,3,Christmas Day in Scotland,
+9,8,4,New Year's Eve in Wales,
+9,9,1,Cork,
+9,9,2,Edinburgh,
+9,9,3,Belfast,yes
+9,9,4,Dublin,
+9,10,1,The Hundred Years War,
+9,10,2,The Boer War,yes
+9,10,3,The First World War,
+9,10,4,The Crimean War,
+9,11,1,True,yes
+9,11,2,False,
+9,12,1,Health,
+9,12,2,Education,
+9,12,3,Defence,yes
+9,12,4,Immigration,yes
+9,13,1,18,yes
+9,13,2,21,
+9,13,3,16,
+9,13,4,25,
+9,14,1,Abolishing a number of taxes on imported goods,yes
+9,14,2,Abolishing the exportation of local produce,
+9,14,3,Preventing the importation of cheap raw materials,
+9,14,4,Preventing the importation of cheap grain,
+9,15,1,One of the tribal leaders who fought against the Romans,
+9,15,2,A British officer in charge of the British army at the Battle of Waterloo,
+9,15,3,A British general who established the authority of the English Parliament,
+9,15,4,A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet,yes
+9,16,1,Peasants who had a small area of their lord’s agricultural land,yes
+9,16,2,Soldiers who fought at the Battle of Trafalgar,
+9,16,3,Noblemen who formed part of the king’s council of advisers,
+9,16,4,A group of skilled people from Holland who came to England during the Middle Ages,
+9,17,1,The Radar,
+9,17,2,The Steam Power,yes
+9,17,3,The Jet Engine,
+9,17,4,The Turing Machine,
+9,18,1,True,
+9,18,2,False,yes
+9,19,1,The Swinging Sixties,
+9,19,2,The Reformation,yes
+9,19,3,The Suffragettes,
+9,19,4,The Enlightenment,
+9,20,1,King Henry V,
+9,20,2,King Henry IV,
+9,20,3,William the Conqueror,yes
+9,20,4,"Harold, the Saxon king of England",
+9,21,1,"Free primary education in England, Wales and Scotland",
+9,21,2,"Free university fees in England, Wales, Scotland and Northern Ireland",
+9,21,3,"Free primary and secondary education in England, Wales and Scotland",
+9,21,4,Free secondary education in England and Wales,yes
+9,22,1,An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer,yes
+9,22,2,A procedure that helps people to make small home insurance claims in certain circumstances,
+9,23,1,The Crystal Palace,yes
+9,23,2,Buckingham Palace,
+9,23,3,Kensington Palace,
+9,23,4,Apsley House,
+9,24,1,An economist,
+9,24,2,A painter,
+9,24,3,A nurse,yes
+9,24,4,A poet,
+18,1,1,independents,yes
+18,1,2,Backbenchers,
+18,1,3,Unaffiliated members,
+18,1,4,Non-partisan delegates,
+18,2,1,Sir Jackie Stewart,
+18,2,2,Sir Roger Bannister,
+18,2,3,Bobby Moore,
+18,2,4,Jenson Button,yes
+18,3,1,Sir Robert Walpole,
+18,3,2,Sake Dean Mahomet,yes
+18,3,3,Sir Alexander Fleming,
+18,3,4,William Wilberforce,
+18,4,1,Tennis,
+18,4,2,Rugby,
+18,4,3,Cricket,
+18,4,4,Motor sports,yes
+18,5,1,1000,
+18,5,2,3000,
+18,5,3,5000,yes
+18,5,4,10000,
+18,6,1,Inventing the World Wide Web,
+18,6,2,Composing the Pomp and Circumstance Marches,yes
+18,6,3,Discovering penicillin,
+18,6,4,Writing the Harry Potter series of books,
+18,7,1,Westminster,yes
+18,7,2,The Parliament House,
+18,7,3,Tower of London,
+18,7,4,10 Downing Street,
+18,8,1,Speaker of the House of Commons,
+18,8,2,Lord Protector,
+18,8,3,Prime Minister,yes
+18,8,4,Monarch,
+18,9,1,Jutes,yes
+18,9,2,Angels,yes
+18,9,3,Norman,
+18,9,4,Picts,
+18,10,1,"Mary, Queen of Scots",
+18,10,2,Queen Victoria,
+18,10,3,Elizabeth,yes
+18,10,4,Queen Anne,
+18,11,1,"Chess, bowling, and snooker",
+18,11,2,"Pub quizzes, pool, and darts",yes
+18,11,3,"Video games, card games, and trivia nights",
+18,11,4,"Board games, poker, and arcade machines",
+18,12,1,Battle of Waterloo,
+18,12,2,Battle of Hastings ,yes
+18,12,3,Battle of Bannockburn,
+18,12,4,Battle of the Boyne,
+18,13,1,A Computer award,yes
+18,13,2,An performing arts award,
+18,13,3,A Sports award,
+18,13,4,A music award,
+18,14,1,Agriculture,yes
+18,14,2,Manufacturing,
+18,14,3,Shipbuilding and railways,
+18,14,4,Trade and commerce,
+18,15,1,To establish a single currency for all European nations,
+18,15,2,To maintain peace between all of its members,yes
+18,15,3,To promote cultural exchange and tourism between its member countries,
+18,15,4,To regulate international trade and economic policies among its members.,
+18,16,1,The Blitz,yes
+18,16,2,Operation Sealion,
+18,16,3,The Battle of Britain,
+18,16,4,The Great London Fire,
+18,17,1,True,yes
+18,17,2,False,
+18,18,1,Education and training,yes
+18,18,2,Defence,
+18,18,3,Health and social services,yes
+18,18,4,Immigration,
+18,19,1,true,yes
+18,19,2,false,
+18,20,1,true,
+18,20,2,false,yes
+18,21,1,yes,yes
+18,21,2,no,
+18,22,1,Ulster fry,yes
+18,22,2,English breakfast,
+18,22,3,Welsh cake,
+18,22,4,Haggis,
+18,23,1,Discovering penicillin.,
+18,23,2,Inventing the World Wide Web. ,
+18,23,3,"Clone a mammal, Dolly the sheep.",yes
+18,23,4,Co-inventing the MRI (magnetic resonance imaging) scanner,
+18,24,1,"St Patrick's Day, St David's Day, St George's Day, St Andrew's Day",
+18,24,2,"St David's Day, St Patrick's Day, St George's Day, St Andrew's Day",yes
+18,24,3,"St Andrew's Day, St Patrick's Day, St David's Day, St George's Day",
+18,24,4,"St George's Day, St Patrick's Day, St David's Day, St Andrew's Day",
+18,25,1,The Crown ,
+18,25,2,Line of Duty,
+18,25,3,Coronation Street,yes
+18,25,4,EastEnders,yes
+18,26,1,George III,yes
+18,26,2,Elizebeth I,
+18,26,3,Victoria,
+18,26,4,George II,
+18,27,1,yes,yes
+18,27,2,no,
+,,,,
+,,,,
+,,,,
+,,,,
