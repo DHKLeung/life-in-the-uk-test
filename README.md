@@ -37,8 +37,8 @@ To practice interactively on your computer:
 ### Update Data
 To refresh the exam data and rebuild all resources:
 ```bash
-uv run generate_markdown.py
-uv run generate_json.py
+uv run python generate_markdown.py
+uv run python generate_json.py
 ```
 
 ### Run Tests

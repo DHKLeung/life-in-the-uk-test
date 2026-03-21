@@ -31,8 +31,8 @@ The data is fetched from direct assets of a publicly available Life in the UK re
 
 ## Code Structure
 
-- `generate_markdown.py`: Fetches data and generates the Markdown guide.
-- `generate_json.py`: Processes CSV data into the `exams.json` format used by the website.
+- `generate_markdown.py`: Fetches data and generates the Markdown guide (`uv run python generate_markdown.py`).
+- `generate_json.py`: Processes CSV data into the `exams.json` format used by the website (`uv run python generate_json.py`).
 - `app.js`: Core logic for the web application (shuffling, state management, UI).
 - `tests/`: Unit tests for data processing logic.
 
