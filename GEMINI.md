@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The `life-in-the-uk-test` project is a tool for practicing the Life in the UK Test locally and offline. It provides both a static study guide and an interactive web interface.
+The `life-in-the-uk-test-exam-practice` project is a tool for practicing the Life in the UK Test locally and offline. It provides both a static study guide and an interactive web interface.
 
 ## Technology Stack
 
