@@ -1,7 +1,7 @@
 # Life in the UK Test Exam Practices
 by Daniel Ho Kwan Leung
 
-[Live Demo](https://dhkleung.github.io/life-in-the-uk-test/) | [Repository](https://github.com/DHKLeung/life-in-the-uk-test)
+The website is hosted at: https://dhkleung.github.io/life-in-the-uk-test/
 
 This project provides an offline and interactive way to practice for the Life in the UK Test. It includes a comprehensive study guide and a mobile-friendly web interface.
 
