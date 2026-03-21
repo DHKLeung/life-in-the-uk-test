@@ -18,6 +18,8 @@ The `life-in-the-uk-test` project is a tool for practicing the Life in the UK Te
     - **Multiple Modes:** Standard exams, Random Exam (25 questions), and Marathon Exam.
     - **Timed Sessions:** 45-minute countdown timer for standard/random exams.
     - **Advanced Results:** Post-exam testimonial page showing score, percentage, time used, and a list of wrong answers with explanations.
+    - **UX Optimization:** Mobile-friendly control placement (Check/Next buttons positioned above feedback for easy thumb-reach).
+    - **Consistency:** Synchronized "Last Updated" timestamps across both JSON and Markdown study guide outputs.
     - **Shuffling Logic:** Fisher-Yates algorithm shuffles questions and answer choices for every session.
     - **Navigation:** Integrated links to author's profile and homepage.
     - **Offline Capability:** Designed to run via `http.server` locally or hosted on GitHub Pages.
