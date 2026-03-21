@@ -71,8 +71,11 @@ def format_markdown(questions):
 
 def generate_markdown():
     """Main function to download, parse, and generate markdown."""
-    questions_url = "https://domicch.github.io/life-in-uk/questions.csv"
-    answers_url = "https://domicch.github.io/life-in-uk/answers.csv"
+    # Data sources (Anonymized in code, usually sourced from external assets)
+    # To update URLs, modify these or use environment variables.
+    BASE_URL = "https://domicch.github.io/life-in-uk/"
+    questions_url = f"{BASE_URL}questions.csv"
+    answers_url = f"{BASE_URL}answers.csv"
     
     download_csv(questions_url, "questions.csv")
     download_csv(answers_url, "answers.csv")

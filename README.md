@@ -1,35 +1,50 @@
 # Life in the UK Test Exam Practices
+by Daniel Ho Kwan Leung
 
-This project aims to provide an offline and interactive way to practice for the Life in the UK Test. 
+This project provides an offline and interactive way to practice for the Life in the UK Test. It includes a comprehensive study guide and a mobile-friendly web interface.
 
-Currently, the project contains all the necessary exam data from [domicch/life-in-uk](https://domicch.github.io/life-in-uk/individual/) and has generated a comprehensive study guide in Markdown.
+## Features
+
+- **Interactive Web UI**: Practice exams directly in your browser.
+- **Auto-Shuffle**: Both questions and answer choices are randomized every time you start an exam to ensure genuine learning.
+- **Mobile-First**: Designed to work perfectly on phones for on-the-go study.
+- **Offline-Ready**: Once downloaded, the study guide and web app can be used locally.
+- **Comprehensive Data**: Includes all questions, multiple-choice options, and detailed explanations (references).
 
 ## Project Structure
 
-- `exams.md`: A complete study guide with all available exams, featuring questions, multiple-choice options (marked with correct answers), and explanations.
-- `questions.csv`: Raw question data, including exam and question numbers, the question text, and references/explanations.
-- `answers.csv`: Raw answer data, including multiple-choice options and flags for correct answers.
-- `generate_markdown.py`: The Python script used to download the latest data and rebuild `exams.md`.
-- `tests/`: A directory containing unit tests for the data processing logic.
+- `index.html`: The main web application.
+- `exams.md`: A complete study guide in Markdown format.
+- `exams.json`: Structured data for the web application.
+- `generate_markdown.py`: Script to rebuild the Markdown study guide.
+- `generate_json.py`: Script to rebuild the JSON data for the website.
+- `tests/`: Unit tests for data processing.
 
 ## Getting Started
 
 ### Prerequisites
 - [uv](https://docs.astral.sh/uv/) installed on your machine.
 
-### Update Data & Generate Study Guide
-To download the latest exam data and regenerate the `exams.md` file, run:
+### Run the Website Locally
+To practice interactively on your computer:
+1. Open your terminal in this folder.
+2. Run the local server:
+   ```bash
+   uv run python -m http.server 8000
+   ```
+3. Open `http://localhost:8000` in your browser.
+
+### Update Data
+To refresh the exam data and rebuild all resources:
 ```bash
 uv run generate_markdown.py
+uv run generate_json.py
 ```
 
 ### Run Tests
-To verify the data processing and formatting logic, run:
 ```bash
 uv run pytest
 ```
 
-## Next Steps
-
-- Build an interactive web interface to practice these exams locally or on a private server.
-- Implement scoring and progress tracking features.
+## Credits
+Built with love by Daniel Ho Kwan Leung.

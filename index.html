@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Life in the UK Practice</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <div class="header-titles">
+                <h1 id="title">Life in the UK Test</h1>
+                <p class="author">by Daniel Ho Kwan Leung</p>
+            </div>
+            <button id="home-btn" class="hidden">Home</button>
+        </header>
+
+        <main id="main-content">
+            <!-- Home View -->
+            <div id="home-view">
+                <section class="features">
+                    <p>🎯 <strong>Randomized Exams:</strong> Questions are shuffled every time you start.</p>
+                    <p>🔀 <strong>Shuffled Options:</strong> Answer choices are randomized for real learning.</p>
+                    <p>📱 <strong>Mobile First:</strong> Simple, easy-to-use interface for on-the-go practice.</p>
+                    <p class="update-info">🕒 <strong>Last Updated:</strong> <span id="last-updated">Loading...</span></p>
+                </section>
+
+                <div class="home-actions">
+                    <h2>Select an Exam</h2>
+                    <a href="exams.md" class="download-link" download>Download Study Guide (Markdown)</a>
+                </div>
+
+                <div id="exam-list" class="grid">
+                    <!-- Exam buttons will be injected here -->
+                </div>
+            </div>
+
+            <!-- Quiz View -->
+            <div id="quiz-view" class="hidden">
+                <div class="quiz-header">
+                    <span id="progress">Question 1 of 24</span>
+                </div>
+                
+                <div id="question-container">
+                    <h3 id="question-text">Question text goes here?</h3>
+                    <div id="answers-container" class="stack">
+                        <!-- Answer options will be injected here -->
+                    </div>
+                </div>
+
+                <div id="feedback-container" class="hidden">
+                    <div id="result-status"></div>
+                    <div id="explanation-text"></div>
+                </div>
+
+                <div class="controls">
+                    <button id="check-btn" disabled>Check</button>
+                    <button id="next-btn" class="hidden">Next</button>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <p>built with love</p>
+        </footer>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -6356,4 +6356,3 @@ is the Scottish Parliament (MSPs), elected by a form of proportional representat
 - [ ] no
 
 ---
-

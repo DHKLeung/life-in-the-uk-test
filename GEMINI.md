@@ -2,49 +2,40 @@
 
 ## Project Overview
 
-The `life-in-the-uk-test` project is a tool for practicing the Life in the UK Test locally and offline. It currently focuses on data acquisition from existing resources and providing a static study guide in Markdown.
+The `life-in-the-uk-test` project is a tool for practicing the Life in the UK Test locally and offline. It provides both a static study guide and an interactive web interface.
 
 ## Technology Stack
 
-- **Python:** Primary language for data processing and automation.
-- **`uv`:** Modern package manager and environment handler for reproducibility.
-- **`pytest`:** Unit testing framework.
-- **Markdown:** The human-readable format for the study guide.
-- **CSV:** The raw data format for questions and answers.
+- **Python:** Data processing and automation (`uv` for environment management).
+- **Web:** Pure HTML5, CSS3, and JavaScript (No-build, static SPA).
+- **Markdown:** Human-readable study guide.
+- **CSV/JSON:** Data formats for storage and the web application.
 
 ## Current State & Achievements
 
-- **Data Acquired:** Successfully identified and downloaded `questions.csv` and `answers.csv` from [domicch/life-in-uk](https://domicch.github.io/life-in-uk/).
-- **Study Guide Generated:** A 6000+ line `exams.md` file has been created, containing all 18 exams, with questions, multiple-choice options, correct answers, and explanations.
-- **Environment Initialized:** A `uv` Python environment is fully configured with dependencies (`requests`, `pytest`) and a `.python-version` file.
-- **Testing Suite:** Modularized code with unit tests in `tests/` to ensure data integrity and correct formatting.
+- **Data Acquired:** Successfully parsed raw exam data into structured CSVs.
+- **Web Interface Complete:** A mobile-friendly, interactive website (`index.html`) is fully functional.
+    - **Shuffling Logic:** Fisher-Yates algorithm shuffles questions and answer choices for every session.
+    - **Offline Capability:** Designed to run via `http.server` locally or hosted on GitHub Pages.
+- **Study Guide Generated:** A comprehensive `exams.md` file is available for offline reading.
+- **Testing Suite:** Modularized code with unit tests to ensure data integrity and correct formatting.
 
-## Data Acquisition Discovery
+## Data Acquisition
 
-The target site is a Single Page Application (SPA), which makes simple scraping difficult. Through source code analysis, it was discovered that the app fetches its database from direct CSV URLs. 
+The data is fetched from direct assets of a publicly available Life in the UK resource. The `generate_markdown.py` script bypasses the web UI to ensure complete access to all available exams and explanations.
 
-**Current Strategy:** The `generate_markdown.py` script bypasses the web UI and downloads these CSVs directly from the site's assets. This approach is:
-1.  **Fast:** No need to render JavaScript for 18+ separate pages.
-2.  **Complete:** Accesses all raw data including explanations (references) that are often hidden in "test mode."
-3.  **Evergreen:** The script dynamically identifies all exam numbers present in the CSV data, meaning it will automatically pick up any new exams added to the source.
+**Key Features of Automation:**
+1.  **Fast:** Direct asset fetching is more efficient than web scraping.
+2.  **Complete:** Accesses all raw data including explanations (references).
+3.  **Dynamic:** Automatically picks up any new exams added to the source data.
 
 ## Code Structure
 
-- `generate_markdown.py`:
-    - `download_csv()`: Fetches the raw data.
-    - `parse_questions()`: Builds the question-reference dictionary.
-    - `parse_answers()`: Merges answer options into the question objects.
-    - `format_markdown()`: Generates the structured Markdown content.
-- `tests/test_generate_markdown.py`:
-    - Uses `pytest` fixtures and mock data to verify each processing step.
+- `generate_markdown.py`: Fetches data and generates the Markdown guide.
+- `generate_json.py`: Processes CSV data into the `exams.json` format used by the website.
+- `app.js`: Core logic for the web application (shuffling, state management, UI).
+- `tests/`: Unit tests for data processing logic.
 
-## Key Files & Locations
+## Deployment
 
-- `exams.md`: The primary study resource for the user.
-- `questions.csv` & `answers.csv`: The raw source data.
-- `generate_markdown.py`: The core logic for processing data.
-- `pyproject.toml` & `uv.lock`: Environment and dependency definitions.
-
-## Future Direction
-
-The next phase is to build an interactive, locally-hostable web interface to practice the exams dynamically, utilizing the existing CSV/Markdown data as a foundation.
+The website is optimized for **GitHub Pages**. All assets use relative paths to ensure compatibility with both local serving and subdirectory hosting.
