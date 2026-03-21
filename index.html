@@ -9,11 +9,27 @@
 <body>
     <div id="app">
         <header>
-            <div class="header-titles">
-                <h1 id="title">Life in the UK Test</h1>
-                <p class="author">by Daniel Ho Kwan Leung</p>
+            <div class="header-nav">
+                <a href="https://dhkleung.github.io/" class="nav-link">Back to Homepage</a>
+                <a href="https://github.com/DHKLeung" class="nav-link">github.com/DHKLeung</a>
             </div>
-            <button id="home-btn" class="hidden">Home</button>
+            <div class="header-main">
+                <div class="header-titles">
+                    <div class="title-row">
+                        <h1>Life in the UK Test</h1>
+                        <a href="https://github.com/DHKLeung/life-in-the-uk-test" class="repo-link">GitHub Repo</a>
+                    </div>
+                    <p class="author">by Daniel Ho Kwan Leung</p>
+                    <div class="subtitle-row">
+                        <div id="subtitle" class="subtitle hidden"></div>
+                        <div id="timer" class="timer hidden">45:00</div>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button id="stop-btn" class="hidden">Stop</button>
+                    <button id="home-btn" class="hidden">Home</button>
+                </div>
+            </div>
         </header>
 
         <main id="main-content">
@@ -23,23 +39,32 @@
                     <p>🎯 <strong>Randomized Exams:</strong> Questions are shuffled every time you start.</p>
                     <p>🔀 <strong>Shuffled Options:</strong> Answer choices are randomized for real learning.</p>
                     <p>📱 <strong>Mobile First:</strong> Simple, easy-to-use interface for on-the-go practice.</p>
-                    <p class="update-info">🕒 <strong>Last Updated:</strong> <span id="last-updated">Loading...</span></p>
                 </section>
+
+                <div class="center-action">
+                    <a href="exams.md" class="download-link wide" download>Download All Exams (Markdown)</a>
+                </div>
 
                 <div class="home-actions">
                     <h2>Select an Exam</h2>
-                    <a href="exams.md" class="download-link" download>Download Study Guide (Markdown)</a>
                 </div>
-
                 <div id="exam-list" class="grid">
                     <!-- Exam buttons will be injected here -->
+                </div>
+
+                <div class="home-actions">
+                    <h2>Special Modes</h2>
+                </div>
+                <div class="special-modes">
+                    <button id="random-exam-btn" class="primary-action">Random Exam (25 Questions)</button>
+                    <button id="marathon-btn" class="primary-action">Marathon Exam (All Questions)</button>
                 </div>
             </div>
 
             <!-- Quiz View -->
             <div id="quiz-view" class="hidden">
                 <div class="quiz-header">
-                    <span id="progress">Question 1 of 24</span>
+                    <span id="progress">Loading...</span>
                 </div>
                 
                 <div id="question-container">
@@ -59,9 +84,35 @@
                     <button id="next-btn" class="hidden">Next</button>
                 </div>
             </div>
+
+            <!-- Result View -->
+            <div id="result-view" class="hidden">
+                <div class="result-card">
+                    <div id="time-up-msg" class="time-up-msg hidden">⏰ Time's Up!</div>
+                    <h2>Exam Completed</h2>
+                    <div id="score-container">
+                        <span id="score-text">Calculating Score...</span>
+                        <div id="score-percentage">--%</div>
+                        <div id="time-taken-text" class="time-taken">Time Taken: 00:00</div>
+                    </div>
+                    
+                    <div id="wrong-answers-container" class="hidden">
+                        <h3>Incorrect Questions</h3>
+                        <div id="wrong-answers-list" class="stack">
+                            <!-- Wrong questions will be injected here -->
+                        </div>
+                    </div>
+
+                    <div class="controls">
+                        <button id="restart-btn">Try Again</button>
+                        <button id="result-home-btn">Back to Home</button>
+                    </div>
+                </div>
+            </div>
         </main>
         <footer>
-            <p>built with love</p>
+            <p>Built with love</p>
+            <p class="update-info">🕒 Last Updated: <span id="last-updated">Loading...</span></p>
         </footer>
     </div>
     <script src="app.js"></script>

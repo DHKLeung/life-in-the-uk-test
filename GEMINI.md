@@ -39,3 +39,7 @@ The data is fetched from direct assets of a publicly available Life in the UK re
 ## Deployment
 
 The website is optimized for **GitHub Pages**. All assets use relative paths to ensure compatibility with both local serving and subdirectory hosting.
+
+- **Main Repository:** [DHKLeung/life-in-the-uk-test](https://github.com/DHKLeung/life-in-the-uk-test)
+- **Live Deployment:** [dhkleung.github.io/life-in-the-uk-test/](https://dhkleung.github.io/life-in-the-uk-test/)
+- **Main Website:** [dhkleung.github.io/](https://dhkleung.github.io/)
