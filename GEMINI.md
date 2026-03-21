@@ -14,8 +14,12 @@ The `life-in-the-uk-test` project is a tool for practicing the Life in the UK Te
 ## Current State & Achievements
 
 - **Data Acquired:** Successfully parsed raw exam data into structured CSVs.
-- **Web Interface Complete:** A mobile-friendly, interactive website (`index.html`) is fully functional.
+- **Web Interface Enhanced:** A mobile-friendly, interactive website (`index.html`) is fully functional with advanced features.
+    - **Multiple Modes:** Standard exams, Random Exam (25 questions), and Marathon Exam.
+    - **Timed Sessions:** 45-minute countdown timer for standard/random exams.
+    - **Advanced Results:** Post-exam testimonial page showing score, percentage, time used, and a list of wrong answers with explanations.
     - **Shuffling Logic:** Fisher-Yates algorithm shuffles questions and answer choices for every session.
+    - **Navigation:** Integrated links to author's profile and homepage.
     - **Offline Capability:** Designed to run via `http.server` locally or hosted on GitHub Pages.
 - **Study Guide Generated:** A comprehensive `exams.md` file is available for offline reading.
 - **Testing Suite:** Modularized code with unit tests to ensure data integrity and correct formatting.
@@ -33,7 +37,7 @@ The data is fetched from direct assets of a publicly available Life in the UK re
 
 - `generate_markdown.py`: Fetches data and generates the Markdown guide (`uv run python generate_markdown.py`).
 - `generate_json.py`: Processes CSV data into the `exams.json` format used by the website (`uv run python generate_json.py`).
-- `app.js`: Core logic for the web application (shuffling, state management, UI).
+- `app.js`: Core logic for the web application (shuffling, state management, UI, timer).
 - `tests/`: Unit tests for data processing logic.
 
 ## Deployment
