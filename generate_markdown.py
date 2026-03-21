@@ -47,7 +47,10 @@ def parse_answers(filename, questions):
 
 def format_markdown(questions):
     """Generate markdown content from questions dictionary."""
+    from datetime import datetime
+    last_updated = datetime.now().strftime("%Y-%m-%d %H:%M")
     lines = ["# Life in the UK - Exam Practices\n"]
+    lines.append(f"\nLast Updated: {last_updated}\n")
     
     for exam_num in sorted(questions.keys()):
         lines.append(f"\n## Exam {exam_num}\n")
