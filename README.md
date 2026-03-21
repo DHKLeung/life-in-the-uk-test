@@ -1,4 +1,4 @@
-# Life in the UK Test Exam Practices
+# Life in the UK Test Exam Practice
 by Daniel Ho Kwan Leung
 
 The website is hosted at https://dhkleung.github.io/life-in-the-uk-test/.

@@ -58,7 +58,7 @@ def test_format_markdown():
         }
     }
     markdown = format_markdown(questions)
-    assert "# Life in the UK - Exam Practices" in markdown
+    assert "# Life in the UK Test Exam Practice" in markdown
     assert "Last Updated:" in markdown
     assert "## Exam 1" in markdown
     assert "### Question 1" in markdown
