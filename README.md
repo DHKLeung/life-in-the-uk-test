@@ -56,4 +56,4 @@ uv run pytest
 ```
 
 ## Credits
-Built with love by Daniel Ho Kwan Leung.
+Built with love by Daniel Ho Kwan Leung (2026).
