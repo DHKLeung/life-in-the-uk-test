@@ -104,7 +104,7 @@ function startRandomExam() {
     currentExam = 'Random';
     isMarathon = false;
     const all = getAllQuestions();
-    const randomSelection = shuffle(all).slice(0, 25);
+    const randomSelection = shuffle(all).slice(0, 24);
     setupQuiz(randomSelection, 'Random Exam');
 }
 

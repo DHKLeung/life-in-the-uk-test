@@ -10,7 +10,7 @@ This project provides an offline and interactive way to practice for the Life in
 - **Interactive Web UI**: Practice exams directly in your browser.
 - **Multiple Modes**:
     - **Standard Exams**: Fixed exams from the official question bank.
-    - **Random Exam**: Draws 25 random questions from the entire database.
+    - **Random Exam**: Draws 24 random questions from the entire database.
     - **Marathon Exam**: A timeless mode to go through all available questions.
 - **Timed Practice**: All modes (except Marathon) include a 45-minute countdown timer to simulate real exam conditions.
 - **Auto-Shuffle**: Both questions and answer choices are randomized every time you start an exam to ensure genuine learning.
