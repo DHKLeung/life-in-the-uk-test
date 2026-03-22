@@ -14,8 +14,9 @@ The `life-in-the-uk-test` project is a tool for practicing the Life in the UK Te
 ## Current State & Achievements
 
 - **Data Acquired:** Successfully parsed raw exam data into structured CSVs.
-- **Web Interface Enhanced:** A mobile-friendly, interactive website (`index.html`) is fully functional with advanced features.
+- **Web Interface Refined:** A mobile-friendly, interactive website (`index.html`) is fully optimized with:
     - **Multiple Modes:** Standard exams, Random Exam (24 questions), and Marathon Exam.
+    - **Refined UX:** Thinner, right-aligned header buttons (Home, Stop) integrated into the subtitle row for maximum accessibility and screen real-estate.
     - **Timed Sessions:** 45-minute countdown timer for standard/random exams.
     - **Advanced Results:** Post-exam testimonial page showing score, percentage, time used, and a list of wrong answers with explanations.
     - **UX Optimization:** Mobile-friendly control placement (Check/Next buttons positioned above feedback for easy thumb-reach).
